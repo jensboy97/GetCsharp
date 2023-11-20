@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingOgVerdiTyper", "TypingOgVerdiTyper.csproj", "{F7DC72CA-0535-4FA4-8EFD-921764C0BECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7DC72CA-0535-4FA4-8EFD-921764C0BECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DC72CA-0535-4FA4-8EFD-921764C0BECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DC72CA-0535-4FA4-8EFD-921764C0BECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DC72CA-0535-4FA4-8EFD-921764C0BECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
