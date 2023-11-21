@@ -1,0 +1,14 @@
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\bin\Debug\net7.0\variabeltilordning.exe
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\bin\Debug\net7.0\variabeltilordning.deps.json
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\bin\Debug\net7.0\variabeltilordning.runtimeconfig.json
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\bin\Debug\net7.0\variabeltilordning.dll
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\bin\Debug\net7.0\variabeltilordning.pdb
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\variabeltilordning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\variabeltilordning.AssemblyInfoInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\variabeltilordning.AssemblyInfo.cs
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\variabeltilordning.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\variabeltilordning.dll
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\refint\variabeltilordning.dll
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\variabeltilordning.pdb
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\variabeltilordning.genruntimeconfig.cache
+C:\Users\master\Desktop\Get\oppgaver1\variabeltilordning\variabeltilordning\obj\Debug\net7.0\ref\variabeltilordning.dll
