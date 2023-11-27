@@ -1,0 +1,14 @@
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\bin\Debug\net7.0\opgLoops.exe
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\bin\Debug\net7.0\opgLoops.deps.json
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\bin\Debug\net7.0\opgLoops.runtimeconfig.json
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\bin\Debug\net7.0\opgLoops.dll
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\bin\Debug\net7.0\opgLoops.pdb
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\opgLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\opgLoops.AssemblyInfoInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\opgLoops.AssemblyInfo.cs
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\opgLoops.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\opgLoops.dll
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\refint\opgLoops.dll
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\opgLoops.pdb
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\opgLoops.genruntimeconfig.cache
+C:\Users\master\Desktop\Get\oppgaver1\opgLoops\opgLoops\obj\Debug\net7.0\ref\opgLoops.dll
