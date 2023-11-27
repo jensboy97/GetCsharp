@@ -1,0 +1,14 @@
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\bin\Debug\net7.0\Switch.exe
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\bin\Debug\net7.0\Switch.deps.json
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\bin\Debug\net7.0\Switch.runtimeconfig.json
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\bin\Debug\net7.0\Switch.dll
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\bin\Debug\net7.0\Switch.pdb
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\Switch.AssemblyInfoInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\Switch.AssemblyInfo.cs
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\Switch.dll
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\refint\Switch.dll
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\Switch.pdb
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\Switch.genruntimeconfig.cache
+C:\Users\master\Desktop\Get\oppgaver1\Switch\Switch\obj\Debug\net7.0\ref\Switch.dll
