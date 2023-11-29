@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrocoGame", "CrocoGame\CrocoGame.csproj", "{9AE9159E-9C51-48AE-9626-FA886E259936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE9159E-9C51-48AE-9626-FA886E259936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE9159E-9C51-48AE-9626-FA886E259936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE9159E-9C51-48AE-9626-FA886E259936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE9159E-9C51-48AE-9626-FA886E259936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
