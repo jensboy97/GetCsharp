@@ -1,0 +1,14 @@
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\bin\Debug\net7.0\MethodOverloading.exe
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\bin\Debug\net7.0\MethodOverloading.deps.json
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\bin\Debug\net7.0\MethodOverloading.runtimeconfig.json
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\bin\Debug\net7.0\MethodOverloading.dll
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\bin\Debug\net7.0\MethodOverloading.pdb
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\MethodOverloading.dll
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\refint\MethodOverloading.dll
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\MethodOverloading.pdb
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\MethodOverloading.genruntimeconfig.cache
+C:\Users\master\Desktop\Get\oppgaver1\MethodOverloading\MethodOverloading\obj\Debug\net7.0\ref\MethodOverloading.dll
