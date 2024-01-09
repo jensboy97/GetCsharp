@@ -1,0 +1,14 @@
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\bin\Debug\net7.0\BossFight.exe
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\bin\Debug\net7.0\BossFight.deps.json
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\bin\Debug\net7.0\BossFight.runtimeconfig.json
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\bin\Debug\net7.0\BossFight.dll
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\bin\Debug\net7.0\BossFight.pdb
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\BossFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\BossFight.AssemblyInfoInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\BossFight.AssemblyInfo.cs
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\BossFight.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\BossFight.dll
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\refint\BossFight.dll
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\BossFight.pdb
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\BossFight.genruntimeconfig.cache
+C:\Users\master\Desktop\Get\oppgaver1\BossFight\BossFight\obj\Debug\net7.0\ref\BossFight.dll
