@@ -1,0 +1,14 @@
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\bin\Debug\net7.0\AbaxSimple.exe
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\bin\Debug\net7.0\AbaxSimple.deps.json
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\bin\Debug\net7.0\AbaxSimple.runtimeconfig.json
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\bin\Debug\net7.0\AbaxSimple.dll
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\bin\Debug\net7.0\AbaxSimple.pdb
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\AbaxSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\AbaxSimple.AssemblyInfoInputs.cache
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\AbaxSimple.AssemblyInfo.cs
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\AbaxSimple.csproj.CoreCompileInputs.cache
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\AbaxSimple.dll
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\refint\AbaxSimple.dll
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\AbaxSimple.pdb
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\AbaxSimple.genruntimeconfig.cache
+C:\Users\master\OneDrive\Skrivebord\Get\Get\oppgaver1\AbaxSimple\obj\Debug\net7.0\ref\AbaxSimple.dll
